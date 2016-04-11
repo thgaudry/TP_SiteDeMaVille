@@ -35,4 +35,7 @@
                 overflow-wrap:  initial;
             }
 
+            .overflow-xs {
+                overflow: scroll;
+            }
 
